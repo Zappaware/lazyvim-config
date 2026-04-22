@@ -28,6 +28,7 @@ return {
         "sonarlint-language-server",
         "stylua",
         "taplo",
+        "tree-sitter-cli",
       },
     },
   },
