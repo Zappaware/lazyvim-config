@@ -3,6 +3,8 @@ return {
     "mason-org/mason.nvim",
     opts = {
       ensure_installed = {
+        "vtsls",
+        "tailwindcss-language-server",
         "ast-grep",
         "basedpyright",
         "csharpier",
