@@ -9,7 +9,7 @@
   "claude-code.nvim": { "branch": "main", "commit": "55c0cb59828fbc3bec744288286a46f5d5750b83" },
   "claudecode.nvim": { "branch": "main", "commit": "2390c6e45c4789072c293ac69de051d169668b29" },
   "conform.nvim": { "branch": "master", "commit": "016802de402556da54c36bd7359b441266b01cdd" },
-  "copilot.lua": { "branch": "master", "commit": "f76a0a281de089e27b605ec8017093f1aab73b07" },
+  "copilot.lua": { "branch": "master", "commit": "619cf2edd4f5b6cd9ed6cbe05560497fdd1e8223" },
   "dial.nvim": { "branch": "master", "commit": "f2634758455cfa52a8acea6f142dcd6271a1bf57" },
   "flash.nvim": { "branch": "main", "commit": "5f0f270fdc7c5b0c21d903ee85b9cb06f2ac636a" },
   "friendly-snippets": { "branch": "main", "commit": "b4d01b0fdf3c9a549961c2f9ffe8dc09be166219" },
